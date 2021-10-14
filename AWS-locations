@@ -1,0 +1,5 @@
+Connect to EC2 using:
+  > ssh –v –i my.pem ec2-user@my-instance-dns
+  
+S3 Bucket
+  https://bryce-test.s3.us-west-2.amazonaws.com/bryce-test.html
